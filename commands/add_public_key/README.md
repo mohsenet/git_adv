@@ -16,7 +16,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ### Step 3
 
-After that add your public key on github or gitlab
+After that add your public key on your github or gitlab
 
 ### Step 4
 
@@ -27,7 +27,7 @@ git remote set-url origin git@github.com:mohsenet/my_git_adventures.git
 
 ### Step 5
 
-Enter the following command the first time
+Enter the following command for the first time
 ```bash
 git push -u origin main
 ```

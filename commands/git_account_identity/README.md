@@ -10,8 +10,8 @@ git config --global user.name "Your name"
 ```
 ### Special
 ```bash
-git config user.email "you@example.com"
+git config user.email "your@email.com"
 ```
 ```bash
-git config user.name "Your Name"
+git config user.name "Your name"
 ```

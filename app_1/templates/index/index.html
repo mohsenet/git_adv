@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dashboard</title>
+    {% block style %}{% endblock %}
+</head>
+<body>
+    <h3>You can encrypt and decrypt files with this app</h3>
+    <p>Path:</P>
+    <p>{{path_to_crypto}}</p>
+    <a href="{% url 'crypto' 'encrypt' %}">encrypt_folder</a><br/>
+    <a href="{% url 'crypto' 'decrypt' %}">decrypt_folder</a>
+</body>

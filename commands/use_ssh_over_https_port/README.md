@@ -28,6 +28,6 @@ ssh -vT git@github.com
 
 Now you can use SSH over HTTPS port
 ```bash
-git clone git@github.com:mohsenet/polar_2.git
+git clone git@github.com:mohsenet/your_repo.git
 ```
 

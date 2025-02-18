@@ -9,7 +9,7 @@ git remote -v
 
 ### Method 2
 
-You can also find it in 'config' file in the '[remote "origin"]' section.
+You can also find it in `config` file in the `[remote "origin"]` section.
 ```bash
 [remote "origin"]
     url = https://github.com/username/repository.git

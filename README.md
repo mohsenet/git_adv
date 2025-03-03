@@ -2,7 +2,7 @@
 
 - [add_public_key](https://github.com/mohsenet/my_git_adventures/tree/main/commands/add_public_key)
 - [push_methods](https://github.com/mohsenet/my_git_adventures/tree/main/commands/push_methods)
-- [git_account_identity](https://github.com/mohsenet/my_git_adventures/tree/main/commands/git_account_identity)
+- [Global & Special](https://github.com/mohsenet/my_git_adventures/tree/main/commands/global_and_special)
 - [git_rm](https://github.com/mohsenet/my_git_adventures/tree/main/commands/git_rm)
 - [rename_branch](https://github.com/mohsenet/my_git_adventures/tree/main/commands/rename_branch)
 - [use_ssh_over_https_port](https://github.com/mohsenet/my_git_adventures/tree/main/commands/use_ssh_over_https_port)

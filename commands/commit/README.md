@@ -1,3 +1,5 @@
+### Types of commit
+
 ```bash
 git commit
 ```
@@ -7,12 +9,13 @@ git commit -m "YOUR_COMMIT"
 ```
 
 ```bash
-git commit -m "TITLE" -M "CONTENT"
+git commit -m "TITLE" -m "CONTENT"
 ```
 
-```bash
-# Set Your Default Editor
 
+### Set Your Default Editor
+
+```bash
 # vi
 git config --global core.editor "vi"
 

@@ -10,5 +10,6 @@
 - [passphrase for the SSH key](https://github.com/mohsenet/my_git_adventures/tree/main/commands/passphrase_for_the_SSH_key)
 - [install git](https://github.com/mohsenet/my_git_adventures/tree/main/commands/install_git)
 - [combine commits](https://github.com/mohsenet/my_git_adventures/tree/main/commands/combine_commits)
+- [commit](https://github.com/mohsenet/my_git_adventures/tree/main/commands/commit)
 
 If you can find useful git command here, I will glad about that.

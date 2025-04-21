@@ -12,5 +12,6 @@
 - [combine commits](https://github.com/mohsenet/my_git_adventures/tree/main/commands/combine_commits)
 - [commit](https://github.com/mohsenet/my_git_adventures/tree/main/commands/commit)
 - [Create Branch](https://github.com/mohsenet/my_git_adventures/tree/main/commands/create_branch)
+- [Other](https://github.com/mohsenet/my_git_adventures/tree/main/commands/other)
 
 If you can find useful git command here, I will glad about that.

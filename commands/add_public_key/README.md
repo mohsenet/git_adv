@@ -17,6 +17,10 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 ### Step 3
 
 After that add your public key on your github or gitlab.
+```bash
+sudo apt install xclip
+xclip -sel clip file_name
+```
 
 ### Step 4
 

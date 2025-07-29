@@ -13,5 +13,6 @@
 - [commit](https://github.com/mohsenet/my_git_adventures/tree/main/commands/commit)
 - [Create Branch](https://github.com/mohsenet/my_git_adventures/tree/main/commands/create_branch)
 - [Other](https://github.com/mohsenet/my_git_adventures/tree/main/commands/other)
+- [local changed remote changed](https://github.com/mohsenet/my_git_adventures/tree/main/commands/local_changed_remote_changed)
 
 If you can find useful git command here, I will glad about that.

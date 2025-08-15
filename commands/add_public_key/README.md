@@ -1,5 +1,12 @@
 ## How to generate public key and add it to github or gitlab.
 
+### Quick Step
+```bash
+ssh-keygen -t ed25519 -C "your_email@example.com"
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_ed25519
+```
+
 ### Step 1
 
 Default ssh key path
@@ -19,7 +26,10 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 After that add your public key on your github or gitlab.
 ```bash
 sudo apt install xclip
-xclip -sel clip file_name
+```
+`xclip -sel clip file_name`
+```bash
+xclip -sel clip ~/.ssh/id_ed25519.pub
 ```
 
 ### Step 4

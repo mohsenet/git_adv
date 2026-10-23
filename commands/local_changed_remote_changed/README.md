@@ -18,3 +18,13 @@ Now push your combined changes
 ```bash
 git push origin main
 ```
+
+---
+
+## Or only
+```bash
+git pull --rebase origin main
+```
+```bash
+git push
+```
